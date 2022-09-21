@@ -1,0 +1,13 @@
+Comandos terminal powershell:
+
+		ctrl + ñ = abrir terminal
+		LS = listado de archivos e informacion
+		CD (con el TAB vamos moviendonos entre directorio) =  cambiar directorio
+		CD + .. = Subiremos de directorio un nivel
+		CD + .. / .. = Subiremos dos niveles
+		clear = limpiar terminal
+		mkdir + nombre = crear directorio
+		ipconfig = informacion sobre la IP
+
+-----------------------------------------------------------------
+

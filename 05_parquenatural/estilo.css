@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: orange;
+}
+span {
+    color: green;
+}
+h2 {
+    border-bottom: black;
+    color:greenyellow
+}
+h3 {
+    color: brown;
+}
+
+#Contenedor { 
+    position:static;
+    margin-top: auto;
+    width: 900px;
+    border-style: ridge; border-width: 10px; 
+    padding: 10px 15px;
+}
+
+#Texto { 
+    border-style: ridge; border-width: 5px; 
+}
+
+#Lista {
+    
+    float: left;
+    width: 100px;
+    margin: 20px;
+    padding: 0;
+    list-style-type: none;
+
+}
